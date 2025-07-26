@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(node:*)",
+      "Bash(ls:*)",
+      "Bash(ADAPTER_PORT=3001 node test-external-adapter.js)"
+    ],
+    "deny": []
+  }
+}
